@@ -3,8 +3,9 @@
 Progetto realizzato da:
 ***
 
-* Batisitini Sviluppatore 1
+* Batistini niccolò Sviluppatore 1
 * Di Carlo Leonardo Sviluppatore 2
+* e flavio ndoja
 
 ***
 
